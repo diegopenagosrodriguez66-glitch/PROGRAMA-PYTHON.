@@ -8,8 +8,7 @@ Proyecto desarrollado en Python para auditar inventarios y calcular automáticam
 - Validación de stock
 - Generación de reporte automático
 
-## Curso
 Fundamentos de Programación - UNAD
 
 ## Autor
-Tu nombre completo
+Diego Alejandro Penagos Rodriguez
